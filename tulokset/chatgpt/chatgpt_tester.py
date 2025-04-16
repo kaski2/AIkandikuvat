@@ -25,3 +25,4 @@ response = client.responses.create(
 print(response.output_text)
 
 print(img_Name)
+print("prompt:" + prompt_txt)
